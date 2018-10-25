@@ -21,8 +21,6 @@ After each meetup/webinar a new directory with meetup topic and its date will be
 
 ### Contribution
 
-### Contribution
-
 Before making a contribution check out the Organisation section above and go through [Code of Conduct](https://github.com/DevrelSpace/Code-of-Conduct).  Here's the flow of uploading your content to this repo:
 
 **Community members like speakers, presenters, webinar doers**
