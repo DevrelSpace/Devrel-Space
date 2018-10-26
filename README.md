@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/only-DevRel%20meat-brightgreen.svg"/>
 </p>
 
-Welcome to our main space where all the content from all our meetups live 👋That's the place where we will store all the devrel presentations, decks and webinar recordings from our presenters but also any developer-oriented project that you wanna share with whole community!
+Welcome to our main space where all the content from all our meetups live 👋. This is the place where we will store all the devrel presentations, decks, and webinar recordings from our presenters but also any developer-oriented project that you want to share with whole community!
 
 ### Organisation
 
-After each meetup/webinar a new directory with meetup topic and its date will be created so that you can easily access all this valuable knowledge. In terms of the developer-oriented projects that we mentioned above. There will be a separate folder called **DevelopmentProjects** where you will be able to upload the projects that you've worked on and that you want to share with rest of community.
+After each meetup/webinar, a new directory with the meetup topic and its date will be created, so that you can easily access all of the valuable knowledge. In terms of the developer-oriented projects that we have mentioned above, there will be a separate folder called **DevelopmentProjects** where you will be able to upload the projects that you have worked on and that you want to share with rest of community.
 
 ### Contribution
 
