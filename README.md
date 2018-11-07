@@ -34,7 +34,7 @@ Before making a contribution check out the Organisation section above and go thr
 **Normal community members**
 
 - Create a branch out of master
-- Create a folder with your project's name inside DevelopmentProjects directory
+- Create a folder with your project's name inside CommunityKnowledge directory
 - Upload relevant content
 - Open a pull request and assign [Konrad](https://github.com/beardaway)
 - Merge only after approval
