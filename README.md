@@ -13,11 +13,11 @@
 <img src="https://img.shields.io/badge/only-DevRel%20meat-brightgreen.svg"/>
 </p>
 
-Welcome to our main space where all the content from all our meetups live 👋. This is the place where we will store all the devrel presentations, decks, and webinar recordings from our presenters but also any developer-oriented project that you want to share with whole community!
+Welcome to our main space where all the content from all our meetups live 👋. This is the place where we will store all the devrel presentations, decks, and webinar recordings from our presenters but also any developer-oriented projects that you want to share with whole community!
 
 ### Organisation
 
-After each meetup/webinar, a new directory with the meetup topic and its date will be created, so that you can easily access all of the valuable knowledge. In terms of the developer-oriented projects that we have mentioned above, there will be a separate folder called **DevelopmentProjects** where you will be able to upload the projects that you have worked on and that you want to share with rest of community.
+After each meetup/webinar, a new directory with the meetup topic and its date will be created, so that you can easily access all of the valuable knowledge. In terms of the developer-oriented projects that we have mentioned above, there will be a separate folder called **CommunityKnowledge** where you will be able to upload the projects that you have worked on and that you want to share with rest of community or simply share any piece of content that you consider valuable in terms of developer-related topics.
 
 ### Contribution
 
@@ -27,7 +27,7 @@ Before making a contribution check out the Organisation section above and go thr
 
 - Create a branch out of master
 - Search for the meetup folder that you were presenting at
-- Upload relevant content to your directory 
+- Upload relevant content to your directory
 - Open a pull request and assign [Konrad](https://github.com/beardaway)
 - Merge after approval
 
@@ -35,7 +35,7 @@ Before making a contribution check out the Organisation section above and go thr
 
 - Create a branch out of master
 - Create a folder with your project's name inside DevelopmentProjects directory
-- Upload relevant content 
+- Upload relevant content
 - Open a pull request and assign [Konrad](https://github.com/beardaway)
 - Merge only after approval
 
