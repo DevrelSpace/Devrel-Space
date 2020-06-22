@@ -21,14 +21,14 @@ After each meetup/webinar, a new directory with the meetup topic and its date wi
 
 ### Contribution
 
-Before making a contribution check out the Organisation section above and go through [Code of Conduct](https://github.com/DevrelSpace/Code-of-Conduct). Here's the flow of uploading your content to this repo:
+Before making a contribution check out the Organisation section above and go through [Code of Conduct](https://github.com/DevrelSpace/Devrel-Space/blob/master/CODE_OF_CONDUCT.md). Here's the flow of uploading your content to this repo:
 
 **Community members like speakers, presenters, webinar doers**
 
 - Create a branch out of master
 - Search for the folder of the meetup that you were presenting at
 - Upload relevant content
-- Open a pull request and assign [Konrad](https://github.com/beardaway)
+- Open a pull request and assign [Konrad](https://github.com/konradsopala)
 - Merge after approval
 
 **Normal community members**
@@ -38,7 +38,7 @@ Before making a contribution check out the Organisation section above and go thr
   - The name should be in PascalCase
   - It should be short and descriptive so that others can navigate easily through the folders
 - Upload relevant content
-- Open a pull request and assign [Konrad](https://github.com/beardaway)
+- Open a pull request and assign [Konrad](https://github.com/konradsopala)
 - Merge only after approval
 
 
