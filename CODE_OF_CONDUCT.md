@@ -23,9 +23,9 @@ This Code of Conduct covers our behaviour in any forum, web site, repository, pu
 
 - **Be patient**. Remember that none of us, the community members, treat this activity as a full-time thing. Simply respect each others' private and personal time. Remmember that pings are welcome, but do not overdo them 😊
 
-- **Be respectful**. We will probably not agree all the time but always remember to show respect toward each other. Only if we treat other with respect, then we will be able to thrive both as a community and personally. 👵🧓
+- **Be respectful**. We will probably not agree all the time but always remember to show respect toward each other. Only if we treat others with respect, then we will be able to thrive both as a community and personally. 👵🧓
 
-- **Stay positive and be nice**. Only if we feel save and keep being positive toward each other, then we will be able to keep our community healthy and growing. 🖖
+- **Stay positive and be nice**. Only if we feel safe and keep being positive toward each other, then we will be able to keep our community healthy and growing. 🖖
 
 - **Be imperfect**. Nobody is expected to be perfect in our community. Asking questions, answering and constantly learning new things is our way of life. 🤔
 
