@@ -56,7 +56,7 @@ All complaints will be reviewed and investigated. Community maintainers will mai
 
 ### Contribution
 
-If you consider something really crucial on the road to making our community more meaningful, feel free to create a branch for yourself and open a pull request. All potential changes to Code of Codnuct must be reviewed by community maintainers, before being merged. Do not forget to assign [Konrad](https://github.com/beardaway), so as to have your PR checked as soon as possible.
+If you consider something really crucial on the road to making our community more meaningful, feel free to create a branch for yourself and open a pull request. All potential changes to Code of Codnuct must be reviewed by community maintainers, before being merged. Do not forget to assign [Konrad](https://github.com/konradsopala), so as to have your PR checked as soon as possible.
 
 ### Final Notes
 
