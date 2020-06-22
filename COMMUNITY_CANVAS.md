@@ -21,7 +21,7 @@ This canvas would not have been created without great help from [Community Canva
 
 **Contribution**
 
-If you consider something really crucial on the road to making our community more meaningful, feel free to create a branch and open a pull request. All potential changes to our Community Canvas must be reviewed by community maintainers, before being merged. Do not forget to assign [Konrad](https://github.com/beardaway), so as to have your PR checked as soon as possible.
+If you consider something really crucial on the road to making our community more meaningful, feel free to create a branch and open a pull request. All potential changes to our Community Canvas must be reviewed by community maintainers, before being merged. Do not forget to assign [Konrad](https://github.com/konradsopala), so as to have your PR checked as soon as possible.
 
 ## Table of contents
 
@@ -138,7 +138,7 @@ Community from the perspective of the members 👨‍💻👩‍💻
 
 #### Rules
 
-- [Code of Conduct](https://github.com/DevrelSpace/Code-of-Conduct)
+- [Code of Conduct](https://github.com/DevrelSpace/Devrel-Space/blob/master/CODE_OF_CONDUCT.md)
 - Member expectations:
   - Respect
   - Devrel meat
@@ -166,7 +166,7 @@ Operational elements of running a community 🤓
 - Community Maintainers: Konrad & Ada (Co-Founders)
 - Annual meetups (once a month)
 - Regular presence on the web and at different meetups and conferences
-- Law: [Code of Conduct](https://github.com/DevrelSpace/Code-of-Conduct)
+- Law: [Code of Conduct](https://github.com/DevrelSpace/Devrel-Space/blob/master/CODE_OF_CONDUCT.md)
 
 #### Governance
 
