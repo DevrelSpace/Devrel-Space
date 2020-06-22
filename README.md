@@ -9,8 +9,8 @@
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/DevRel-with%20%E2%9D%A4%EF%B8%8F-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/speakers-driven-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/only-DevRel%20meat-brightgreen.svg"/>
+<img src="https://img.shields.io/badge/Community-Driven-brightgreen"/>
+<img src="https://img.shields.io/badge/Only-DevRel%20Meat-brightgreen"/>
 </p>
 
 Welcome to our main space where all the content from all our meetups live 👋. This is the place where we will store all the devrel presentations, decks, and webinar recordings from our presenters but also any developer-oriented projects that you want to share with whole community!
