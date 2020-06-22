@@ -9,8 +9,8 @@
 <br/>
 <p align="center">
 <img src="https://img.shields.io/badge/DevRel-with%20%E2%9D%A4%EF%B8%8F-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/>
-<img src="https://img.shields.io/badge/only-DevRel%20meat-brightgreen.svg"/>
+<img src="https://img.shields.io/badge/Community-Driven-brightgreen"/>
+<img src="https://img.shields.io/badge/Only-DevRel%20Meat-brightgreen"/>
 </p>
 
 Community means something different to every person. That's why we wanted to create a shared space for the vision of our community that we can all contribute to, so as to make our experience within Devrel Space constantly better.
